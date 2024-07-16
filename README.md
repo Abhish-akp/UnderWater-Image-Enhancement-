@@ -61,6 +61,4 @@ enhance_image(input_image, output_image)
 ## Contributing
 
 We welcome contributions to the Underwater Image Enhancement project! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
----
 
-Feel free to customize this README file according to your project's specific requirements and details.
