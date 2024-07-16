@@ -33,15 +33,9 @@ Underwater Image Enhancement is crucial for various applications such as marine 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/underwater-image-enhancement.git
+   [ git clone https://github.com/yourusername/underwater-image-enhancement.git](https://github.com/Abhish-akp/UnderWater-Image-Enhancement-.git)
     cd underwater-image-enhancement
     ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 ### Command Line Interface
@@ -51,15 +45,6 @@ You can use the command line interface to enhance underwater images. Run the fol
 ```bash
 python enhance.py --help
 ```
-
-### Example
-
-To enhance an image, use the following command:
-
-```bash
-python enhance.py --input path/to/your/image.jpg --output path/to/save/enhanced_image.jpg
-```
-
 ### Script
 
 You can also use the provided Python script in your own projects. Here is an example:
@@ -73,11 +58,9 @@ output_image = "path/to/save/enhanced_image.jpg"
 enhance_image(input_image, output_image)
 ```
 
-## Examples
-
 ## Contributing
 
-We welcome contributions to the Underwater Image Enhancement project! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to the Underwater Image Enhancement project! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 ---
 
 Feel free to customize this README file according to your project's specific requirements and details.
