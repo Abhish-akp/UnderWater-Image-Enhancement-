@@ -43,7 +43,7 @@ Underwater Image Enhancement is crucial for various applications such as marine 
 You can use the command line interface to enhance underwater images. Run the following command to see the available options:
 
 ```bash
-python enhance.py --help
+Underwater_Image_Enhancement(Project).ipynb --help
 ```
 ### Script
 
