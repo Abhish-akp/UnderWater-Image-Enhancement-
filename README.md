@@ -33,7 +33,7 @@ Underwater Image Enhancement is crucial for various applications such as marine 
 
 1. Clone the repository:
     ```bash
-   [ git clone https://github.com/yourusername/underwater-image-enhancement.git](https://github.com/Abhish-akp/UnderWater-Image-Enhancement-.git)
+   https://github.com/Abhish-akp/UnderWater-Image-Enhancement-.git
     cd underwater-image-enhancement
     ```
 ## Usage
